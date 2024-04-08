@@ -1,4 +1,4 @@
-import{s as i,t as n,N as c,r as l,j as e,H as g,S as o}from"./index-f0fe74ac.js";const d="/dead/assets/Rectangle 1-2557fb2d.png",h=i.div`
+import{s as i,t as n,N as c,r as l,j as e,H as g,S as o}from"./index-4c311810.js";const d="/DEAD/assets/Rectangle 1-2557fb2d.png",h=i.div`
 padding:${n.spacing(32)};
 max-inline-size:1380px;
 background-color:${n.colors.green};
