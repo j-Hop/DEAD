@@ -15,7 +15,7 @@ ReactDOM.createRoot(document.getElementsByClassName('root')).render(
     <Provider store={store}>
         <PersistGate loading={null} persistor={persistor}>
             <ThemeProvider theme={theme}>
-                <BrowserRouter basename="/dead">
+                <BrowserRouter basename="/DEAD">
                 <App/>
                 <Toaster
                 toastOptions={{
