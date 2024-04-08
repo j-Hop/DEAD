@@ -1,4 +1,4 @@
-import{j as t,s as r,t as o,N as s}from"./index-4134a342.js";const n="/react_vite/assets/Not-Found-525bfa43.jpg",e=r.div`
+import{j as t,s as r,t as o,N as s}from"./index-f0fe74ac.js";const n="/dead/assets/Not-Found-525bfa43.jpg",e=r.div`
 display:flex;
 justify-content:center;
 transform-style: preserve-3d;
