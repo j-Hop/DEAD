@@ -15,7 +15,7 @@ ReactDOM.createRoot(document.getElementsByClassName('root')).render(
     <Provider store={store}>
         <PersistGate loading={null} persistor={persistor}>
             <ThemeProvider theme={theme}>
-                <BrowserRouter basename="/react-project_nanny-service">
+                <BrowserRouter basename="/dead">
                 <App/>
                 <Toaster
                 toastOptions={{
