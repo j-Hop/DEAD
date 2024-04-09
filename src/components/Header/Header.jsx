@@ -82,7 +82,7 @@ return(
     </NavList>
 
     <div>
-        {auth? (
+        {authUser? (
 <>
 <IconUser>
 <svg width='16' height='16'>
