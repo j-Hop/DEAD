@@ -89,7 +89,7 @@ return(
     <use xlinkHref={`${SpriteIcons}#icon-mdi_user`}/>
 </svg>
 </IconUser>
-<SpanName>${authUser.name}</SpanName>
+<SpanName>{authUser.name}</SpanName>
 <BtnLogOut onClick={SignOut}><span>Log Out</span></BtnLogOut>
 </>
         ):(
